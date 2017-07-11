@@ -1,0 +1,211 @@
+#TITLE: Product Catalog for Vlabs
+#+AUTHOR:Kehav Krishnamurti
+#+DATE: 29th June 2017
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Fixed Setup
+** Essential
+*** Speakers :
+**** Requirements :
+**** Recommendation :
+***** #1: Philips Fidelio B5
+[[https://images.philips.com/is/image/PhilipsConsumer/B5_37-MI1-global-001?$jpglarge$&wid=1250]]
+****** Specifications :
+Speaker output power:120W
+Subwoofer impedance:4 ohm
+Frequency Response :20 Hz - 22 kHz
+Subwoofer driver:1 x 6.5" woofer
+Detachable Speakers
+****** Buying link : [[http://www.amazon.in/Philips-B5-Soundbar-Detachable-Sub-Woofer/dp/B01686REBM/ref=sr_1_8?s=electronics&ie=UTF8&qid=1499310923&sr=1-8][Amazon]]
+****** Price : 46,200 INR            
+***** #2: Philips HTL2163B
+[[http://ecx.images-amazon.com/images/I/81M1goLluNL._SL1500_.jpg]]
+****** Specifications :
+Power Consumption: 30 W
+Speaker Impedance: 8 ohm
+Frequency response: 45 - 22 kHz	
+Subwoofer Driver: 1 x 5.25" woofer
+****** Buying Link : [[http://www.amazon.in/Philips-HTL2163B-12-Bluetooth-Soundbar/dp/B00J01HSH8/ref=sr_1_1?s=electronics&ie=UTF8&qid=1499310923&sr=1-1][Amazon]]
+****** Price : 12,000 INR
+
+***** Honorable Mention: F&D T60X Tower Speaker
+[[http://ecx.images-amazon.com/images/I/81M3wwY8ZhL._SL1500_.jpg]]
+****** Editors note :
+****** Price : 10,500 INR
+****** Buying Link : [[http://www.amazon.in/dp/B01AW1XCJC/ref=twister_B072XQ6P1R?_encoding=UTF8&th=1][Amazon]]
+
+*** Projector :
+**** Requirements :
+**** Recommendation :
+***** #1: BenQ W2000 DLP-Projektor 
+[[http://ecx.images-amazon.com/images/I/911MRXG73XL._SL1500_.jpg]]
+****** Editors Note :
+****** Price : 1,15,000 INR
+****** Buying Link : [[http://www.amazon.in/BenQ-W2000-DLP-Projektor-2000-ANSI-Lumen/dp/B015OEK8YY/ref=sr_1_12?s=electronics&ie=UTF8&qid=1499317786&sr=1-12][Amazon]]
+*** Document Camera :
+**** Requirements :
+**** Recommendation :
+***** #1: Ipevo Ziggi-HD Plus High-Definition USB Document Camera 
+[[https://images-na.ssl-images-amazon.com/images/I/61RVAmBIC5L._SL1320_.jpg]]
+****** Editors Note :
+****** Price : 12,190 INR
+****** Buying Link : [[http://www.amazon.in/Ipevo-Ziggi-HD-High-Definition-Document-CDVU-06IP/dp/B01530XGMA/ref=sr_1_1?s=computers&ie=UTF8&qid=1499317544&sr=1-1&keywords=ipevo+camera][Amazon Global]]
+*** Tablet :
+**** Requirements :
+**** Recommendations :
+***** #1: One by Wacom CTL -67 
+[[http://ecx.images-amazon.com/images/I/51Gn1TO%2Bm9L._SL1000_.jpg]]
+****** Editors Comments :
+****** Price : 7,800 INR 
+****** Buying Link : [[http://www.amazon.in/Wacom-CTL-671-Tablet-7-44-Black/dp/B00FRHT5YI/ref=pd_sbs_147_2?_encoding=UTF8&psc=1&refRID=9D2C8SZ6MS343MNYW4V6][Amazon]]
+***** #2: Wacom CTL-490
+[[http://ecx.images-amazon.com/images/I/41sFuRRF7XL.jpg]]
+****** Editors Comments :
+****** Price : 6,800
+****** Buying link : [[http://www.amazon.in/Wacom-CTL-490-B0-CX-Draw-Tablet/dp/B0176299PG/ref=lp_1375416031_1_7?s=computers&ie=UTF8&qid=1499310446&sr=1-7][Amazon]] 
+*** TV :
+**** Requirements :
+**** Recommendation :
+***** #1: LG OLED55B6T 
+[[http://ecx.images-amazon.com/images/I/51vHjW2gQTL.jpg]]
+****** Specifications :
+****** Price : 280,000 INR
+****** Buying Link : [[http://www.amazon.in/LG-OLED55B6T-139-7-inches-Ultra/dp/B01GPY5UMM/ref=sr_1_13?s=electronics&ie=UTF8&qid=1499834600&sr=1-13][Amazon]]
+***** #2: Samsung Q7 75 inch:
+[[http://static.trustedreviews.com/94/00003ddd8/a6bf/samsung-q7-qled-tv-9.jpg]]
+****** Specifications :
+****** Price : 700,000 INR
+****** Buying Link : [[https://www.tanotis.com/products/samsung-q7f-series-75-class-hdr-uhd-smart-qled-tv?gclid=Cj0KCQjw7pHLBRDqARIsAFyKPa4JcYJVRKOhLy6FawNWRr0wZ54jQq0WsKRutJ-U8PI5FGNYcXn8QQEaAkaAEALw_wcB&variant=35185816656][Tanotis]]
+** Auxiliary
+*** Touch Interface :
+**** Requirements :
+**** Recommendations :
+***** #1: Touchjet Wave :
+[[https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/353421-original.png]]
+****** Specifications :
+****** Price :
+** Extras
+* Portable Setup
+** Essential
+*** Power Source :
+**** Requirements :
+**** Recommendation :
+***** #1: MAXOAK Laptop power bank K2
+[[https://images-na.ssl-images-amazon.com/images/I/61zGu6DCRJL._SL1400_.jpg]]
+****** Editors Note  :
+****** Price : 20,000 INR
+****** Buying Link : [[http://www.amazon.in/MAXOAK-50000mAh-Portable-External-Notebook-Most/dp/B00YP823NA/ref=sr_1_1?s=computers&ie=UTF8&qid=1499323440&sr=1-1&keywords=MAXOAK][Amazon]]
+***** #2: MAXOAK 36000mAh High Capacity Power bank K3
+[[http://ecx.images-amazon.com/images/I/71mxWpD1mpL._SL1500_.jpg]]
+****** Editors Note :
+****** Price : [[http://www.amazon.in/MAXOAK-36000mAh-Portable-External-Notebook/dp/B017QUHB44/ref=sr_1_2?s=computers&ie=UTF8&qid=1499323440&sr=1-2&keywords=MAXOAK][Amazon]]
+*** Speaker :
+**** Requirements :
+**** Recommendation :
+***** #1: Bose SoundLink III
+[[http://ecx.images-amazon.com/images/I/81XoJR4EMTL._SL1500_.jpg]]
+****** Editors Note : 
+Standalone Speaker 
+****** Price : 22,500 INR
+****** Buying Link : [[http://www.amazon.in/Bose-SoundLink-III-Bluetooth-Speaker/dp/B011KEVE86/ref=sr_1_sc_1?ie=UTF8&qid=1499324496&sr=8-1-spell&keywords=bose+soudnlink+3][Amazon]]
+***** #2: Bose Revolve Plus 
+[[http://ecx.images-amazon.com/images/I/61m0Mi6YbEL._SL1200_.jpg]]
+****** Specifications : 
+Pairable Speaker 
+****** Price : 25,000 INR
+****** Buying Link : [[https://www.flipkart.com/bose-soundlink-revolve-plus-portable-bluetooth-mobile-tablet-speaker/p/itmeu7pmehw3zggn][Flipkart]] [[http://www.amazon.in/gp/product/B0713QJTTF/ref=s9_acss_bw_cg_boselaun_2a1_w?pf_rd_m=A1K21FY43GMZF8&pf_rd_s=merchandised-search-1&pf_rd_r=KP52FCQ50VBP3YK78STX&pf_rd_t=101&pf_rd_p=3d3e2132-4cec-4563-95c3-921f188def87&pf_rd_i=13718114031&th=1][Amazon]]
+***** Honorable Mention : UE Boom 2 
+[[http://ecx.images-amazon.com/images/I/91VnHYEOY8L._SL1500_.jpg]]
+****** Editors Note : 
+A comparable speaker in the price range and a nice compromise between the two
+Bose Options 
+****** Price : 16,000 INR
+****** Buying Link : [[http://www.amazon.in/UE-Boom-Phantom-Bluetooth-Speakers/dp/B014M8ZO8S/ref=pd_sim_23_2?_encoding=UTF8&psc=1&refRID=8C1JJ9P3VZHZ2V29CGN0][Amazon]]
+*** Projector :
+**** Requirements :
+**** Recommendation :
+***** #1: JmGO View / P2
+[[https://images-na.ssl-images-amazon.com/images/I/51aDbvppDeL._SL1200_.jpg]]
+****** Editors Note :
+****** Price : 649 $
+****** Buying Link : [[https://www.amazon.com/JmGO-Portable-Projector-Bluetooth-15600mAh/dp/B071CNSL6K/ref=sr_1_6?ie=UTF8&qid=1499323288&sr=8-6&keywords=jmgo+view][Amazon]]
+*** Portable Router :
+**** Requirements :
+**** Recommendation :
+***** #1: D-Link DIR-506L 
+[[http://ecx.images-amazon.com/images/I/71a8GFEi2KL._SL1500_.jpg]]
+****** Editors Note : 
+****** Price : 2000 INR 
+****** Buying Link : [[http://www.amazon.in/D-Link-DIR-506L-portable-wireless-Router/dp/B00DCJZ4BG][Amazon]]
+***** #2: TP-Link TL-MR3020 Mini Pocket
+[[http://ecx.images-amazon.com/images/I/61QqoyRuSYL._SL1280_.jpg]]
+****** Editors Note :
+****** Price : 1600 INR
+****** Buying Link : [[http://www.amazon.in/TP-Link-TL-MR3020-Pocket-Wireless-Router/dp/B00634PLTW/ref=sr_1_3?s=computers&ie=UTF8&qid=1499322996&sr=1-3&keywords=travel+router][Amazon]]
+*** Data Card :
+**** Requirements : 
+**** Recommendation :
+***** #1: Huawei data card E8231 
+[[http://ecx.images-amazon.com/images/I/31a4u-FnyzL.jpg]]
+****** Editors Note :
+****** Price : 1600 INR 
+****** Buying Link : [[http://www.amazon.in/Huawei-e8231-data-card-E8231/dp/B00I07U3LG/ref=sr_1_1?s=computers&ie=UTF8&qid=1499323136&sr=1-1&keywords=Data+Card][Amazon]]
+*** Portable Hard Drive :
+**** Requirements :
+**** Recommendations :
+***** #1: Seagate Backup Plus Slim 2TB
+[[http://ecx.images-amazon.com/images/I/81R8OM9pGLL._SL1500_.jpg]]
+****** Editors Note : 
+****** Price : 9000 INR 
+****** Buying Link : [[http://www.amazon.in/Seagate-Backup-Portable-External-Mobile/dp/B00GO0HY68/ref=sr_1_1?s=computers&ie=UTF8&qid=1499323731&sr=1-1][Amazon]]
+** Auxiliary
+*** Projector 
+**** Requirements :
+**** Recommendations :
+***** #1: Touchjet Pond :
+[[https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/05/P5121004.jpg]]
+****** Editors Note :
+****** Price :
+** Extras
+* Conferencing setup
+** Essential
+*** Camera :
+**** Requirements :
+**** Recommendations :
+***** #1: Logitech ConferenceCam Connect
+[[http://ecx.images-amazon.com/images/I/81Zl9ay7ueL._SL1500_.jpg]]
+****** Editors Comments :
+****** Price : 36,000 
+****** Buying Link : [[http://www.amazon.in/Logitech-Conference-Portable-Videoconferencing-960-001013/dp/B00SQG16MG/ref=sr_1_1?s=computers&ie=UTF8&qid=1499324784&sr=1-1&keywords=logitech+conference+cam+connect][Amazon]]
+***** #2: Logitech BCC950 ConferenceCam 
+[[http://ecx.images-amazon.com/images/I/51VP8bpo6LL._SL1200_.jpg]]
+****** Editors Comments :
+****** Price : 19,000 INR
+****** Buying link : [[http://www.amazon.in/Logitech-960-000867-BCC950-ConferenceCam/dp/B0080IA1J4?tag=googinhydr18418-21][Amazon]]
+*** Speaker :
+**** Requirements :
+**** Recommendations :
+***** #1: Jabra Speak 510 Oc
+[[http://ecx.images-amazon.com/images/I/41M9WbK3MDL.jpg]]
+****** Editors Note :
+****** Price :
+****** Buying Link : [[http://www.amazon.in/Jabra-Wireless-Bluetooth-Speaker-Softphone/dp/B00AQUO5RI/ref=sr_1_1?ie=UTF8&qid=1499324865&sr=8-1&keywords=jabra+speak][Amazon]]
+*** Microphone :
+**** Requirements :
+**** Recommendations :
+***** #1: Audio-Technica PRO 44
+****** Specifications :
+****** Price :
+** Auxiliary
+*** Complete solution :
+**** Requirements :
+**** Recommendations :
+***** #1: VTech VCS702 ErisStation DECT 6.0 Conference Phone 
+[[https://images-na.ssl-images-amazon.com/images/I/81j7wIKY7cL._SL1500_.jpg]]
+****** Editors Note :
+****** Price : 200 $
+****** Buying Link : [[https://www.amazon.com/VTech-VCS702-ErisStation-Conference-Technology/dp/B012E9LNU0][Amazon Global]]
+** Extras
