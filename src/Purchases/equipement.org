@@ -1,0 +1,16 @@
+#+TITLE: Equipment Purchase list
+#+DATE: [ 2017-07-19 Wed ]
+#+AUTHOR: Keshav Krishnamurti 
+#+SETUPFILE: ../org-templates/level-1.org
+
+* Fixed Setup
+|------+---------+--------------------+-------------+----------+----------------+-------|
+| S.no | Name    | Model No           | Description | Quantity | Cost per Piece | Total |
+|------+---------+--------------------+-------------+----------+----------------+-------|
+| 1    | Speaker | Philips Fidelio B5 |           1 | 46,200   |                |       |
+|------+---------+--------------------+-------------+----------+----------------+-------|
+| 2    | Projector    |                    |             |          |                |       |
+
+* Portable Setup
+
+* Conference Setup

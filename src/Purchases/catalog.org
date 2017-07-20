@@ -88,6 +88,23 @@ Subwoofer Driver: 1 x 5.25" woofer
 ****** Specifications :
 ****** Price :
 ** Extras
+
+|  S.no | Name                 | Type         | Quantity |  Price |  Total |
+|-------+----------------------+--------------+----------+--------+--------|
+|     1 | Philips Fidelio B5   | Speakers     |        1 |  46200 |  46200 |
+|-------+----------------------+--------------+----------+--------+--------|
+|     2 | BenQ W2000 Projector | Projector    |        1 | 115000 | 115000 |
+|-------+----------------------+--------------+----------+--------+--------|
+|     3 | Ipevo Ziggi HD Plus  | Document Cam |        1 |  12190 |  12190 |
+|-------+----------------------+--------------+----------+--------+--------|
+|     4 | Wacom One CTL -671   | Tablet       |        1 |   7800 |   7800 |
+|-------+----------------------+--------------+----------+--------+--------|
+|     5 | LG OLED 55B6T        | TV           |        1 | 280000 | 280000 |
+|-------+----------------------+--------------+----------+--------+--------|
+| Total |                      |              |          |        | 461190 |
+|       |                      |              |          |        |        |
+#+TBLFM: $6=$4*$5::@7$6=vsum(@1..@-1)
+
 * Portable Setup
 ** Essential
 *** Power Source :
@@ -170,6 +187,23 @@ Bose Options
 ****** Editors Note :
 ****** Price :
 ** Extras
+|  S.no | Name                         | Type                | Quantity | Price | Total |
+|-------+------------------------------+---------------------+----------+-------+-------|
+|     1 | MAXOAK Power Bank K2         | Power Source        |        1 | 20000 | 20000 |
+|-------+------------------------------+---------------------+----------+-------+-------|
+|     2 | Bose Soundlink Mini          | Speaker             |        1 | 22500 | 22500 |
+|-------+------------------------------+---------------------+----------+-------+-------|
+|     3 | JmGo View                    | Projector           |        1 | 35000 | 35000 |
+|-------+------------------------------+---------------------+----------+-------+-------|
+|     4 | D-Link DIR-506L              | Portable Router     |        1 |  1500 |  1500 |
+|-------+------------------------------+---------------------+----------+-------+-------|
+|     5 | Huawei DataCard E8231        | Data Card           |        1 |  2000 |  2000 |
+|-------+------------------------------+---------------------+----------+-------+-------|
+|     6 | Seagate BackUp Plus Slim 2TB | Portable Hard Drive |        1 |  9000 |  9000 |
+|-------+------------------------------+---------------------+----------+-------+-------|
+| Total |                              |                     |          |       | 90000 |
+|       |                              |                     |          |       |       |
+#+TBLFM: $6=$4*$5::@8$6=vsum(@1..@-1)
 * Conferencing setup
 ** Essential
 *** Camera :
@@ -191,7 +225,7 @@ Bose Options
 ***** #1: Jabra Speak 510 Oc
 [[http://ecx.images-amazon.com/images/I/41M9WbK3MDL.jpg]]
 ****** Editors Note :
-****** Price :
+****** Price : 14,000
 ****** Buying Link : [[http://www.amazon.in/Jabra-Wireless-Bluetooth-Speaker-Softphone/dp/B00AQUO5RI/ref=sr_1_1?ie=UTF8&qid=1499324865&sr=8-1&keywords=jabra+speak][Amazon]]
 *** Microphone :
 **** Requirements :
@@ -209,3 +243,16 @@ Bose Options
 ****** Price : 200 $
 ****** Buying Link : [[https://www.amazon.com/VTech-VCS702-ErisStation-Conference-Technology/dp/B012E9LNU0][Amazon Global]]
 ** Extras
+
+|  S.no | Name                           | Type       | Quantity | Price | Total |
+|-------+--------------------------------+------------+----------+-------+-------|
+|     1 | Logitech ConferenceCam Connect | Camera     |        1 | 36000 | 36000 |
+|-------+--------------------------------+------------+----------+-------+-------|
+|     2 | Jabra Speak 510 Oc             | Speaker    |        1 | 14000 | 14000 |
+|-------+--------------------------------+------------+----------+-------+-------|
+|     3 | AudioTechnica Pro 44           | Microphone |        1 |  8000 |  8000 |
+|-------+--------------------------------+------------+----------+-------+-------|
+| Total |                                |            |          |       | 58000 |
+|       |                                |            |          |       |       |
+#+TBLFM: $6=$4*$5::@5$6=vsum(@1..@-1)
+* Testing Equipment
